@@ -1,5 +1,5 @@
 {
-	"name": "fcc-responsive-web-design",
+	"name": "fcc-javascript-algorithms-and-data-structures",
 	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.19",
 	"customizations": {
 		"vscode": {
